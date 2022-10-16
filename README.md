@@ -4,8 +4,8 @@ After sending ethereum and after mentioning their is a gif attached to it and wh
 link for the app-- https://krypt-blockchain.netlify.app/
 
 Youtube video link of how it works--https://youtu.be/PZmscJhbXng
-Picture of the Ui of the app-
 
+Picture of the Ui of the app-
  
 ![Screenshot (125)](https://user-images.githubusercontent.com/93263133/196041002-1b7990b3-cc3c-4172-818c-d2ec75e85e6e.png)
 
